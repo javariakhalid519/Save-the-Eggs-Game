@@ -15,3 +15,10 @@ C# (Windows Forms App)
 MySQL Workbench
 Visual Studio 
 .NET Framework
+
+## How to Run the Game
+1. Clone this repository or download as ZIP.
+2. Open the `.sln` file in Visual Studio.
+3. Make sure MySQL server is running (use XAMPP or MySQL Workbench).
+4. Import the database using the SQL code below.
+5. Build and run the project.
