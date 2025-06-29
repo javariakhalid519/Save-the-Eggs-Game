@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Save the Eggs Game", "Save the Eggs Game\Save the Eggs Game.csproj", "{AA96F482-EDBE-4DBB-B7A2-29F043A19939}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Audio", "Audio", "{B24F30B9-5677-46F4-8395-7F97093C87BC}"
+	ProjectSection(SolutionItems) = preProject
+		Save the Eggs Game\bin\Debug\Audio\background.wav = Save the Eggs Game\bin\Debug\Audio\background.wav
+		Save the Eggs Game\bin\Debug\Audio\catch.wav = Save the Eggs Game\bin\Debug\Audio\catch.wav
+		Save the Eggs Game\bin\Debug\Audio\Click.wav = Save the Eggs Game\bin\Debug\Audio\Click.wav
+		Save the Eggs Game\Audio\collect.wav = Save the Eggs Game\Audio\collect.wav
+		Save the Eggs Game\Audio\gameover.wav = Save the Eggs Game\Audio\gameover.wav
+		Save the Eggs Game\bin\Debug\Audio\miss.wav = Save the Eggs Game\bin\Debug\Audio\miss.wav
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6BA6B8B9-C546-4F94-AB1E-74957B8257D3}"
+	ProjectSection(SolutionItems) = preProject
+		Bitmap1.bmp = Bitmap1.bmp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA96F482-EDBE-4DBB-B7A2-29F043A19939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA96F482-EDBE-4DBB-B7A2-29F043A19939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA96F482-EDBE-4DBB-B7A2-29F043A19939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA96F482-EDBE-4DBB-B7A2-29F043A19939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {026CD126-BE74-421B-8FDE-7865B600431C}
+	EndGlobalSection
+EndGlobal
